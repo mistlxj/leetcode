@@ -24,14 +24,15 @@ public class LongestPalindromicSubstring_5 {
             }
             String cur = sb.toString();
             if (cur.length() >= max.length()) {
-                max = cur;
+                max = sb.reverse() + cur;
             }
+            sb.delete(0,sb.length());
         }
         return max;
     }
 
     public static void main(String[] args) {
-        String str = "abccbadeedf";
+        String str = "abba";
         System.out.println(longestPalindrome(str));
     }
 }
