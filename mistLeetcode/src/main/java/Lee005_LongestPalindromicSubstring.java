@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * Created by lixiaojian on 2016/10/31.
  */
-public class LongestPalindromicSubstring_5 {
+public class Lee005_LongestPalindromicSubstring {
     public static String longestPalindrome(String s) {
         if (s.length() == 1) {
             return s;

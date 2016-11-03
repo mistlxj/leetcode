@@ -3,7 +3,7 @@
  * Created by lixiaojian on 2016/10/28.
  * @source  https://leetcode.com/problems/add-two-numbers/
  */
-public class AddTwoNumbers2 {
+public class Lee002_AddTwoNumbers {
 //     You are given two linked lists representing two non-negative numbers.
 //      The digits are stored in reverse order and each of their nodes contain a single digit.
 //       Add the two numbers and return it as a linked list.
@@ -76,7 +76,7 @@ public class AddTwoNumbers2 {
 
 
     public static void main(String[] args) {
-        AddTwoNumbers2 add = new AddTwoNumbers2();
+        Lee002_AddTwoNumbers add = new Lee002_AddTwoNumbers();
 
         ListNode L1 = new ListNode(9);
         ListNode L1Next = new ListNode(8);

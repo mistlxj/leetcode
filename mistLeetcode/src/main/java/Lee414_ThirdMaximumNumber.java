@@ -6,7 +6,7 @@ import java.util.Set;
  *
  * @source https://leetcode.com/problems/third-maximum-number/
  */
-public class ThirdMaximumNumber_414 {
+public class Lee414_ThirdMaximumNumber {
     /*
     Given a non-empty array of integers, return the third maximum number in this array. If it does not exist, return the maximum number. The time complexity must be in O(n).
 

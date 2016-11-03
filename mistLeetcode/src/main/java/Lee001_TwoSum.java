@@ -6,7 +6,7 @@ import java.util.Map;
  * @author lixiaojian
  * @source https://leetcode.com/problems/two-sum/
  */
-public class TwoSum1 {
+public class Lee001_TwoSum {
 //    Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 //
 //    You may assume that each input would have exactly one solution.

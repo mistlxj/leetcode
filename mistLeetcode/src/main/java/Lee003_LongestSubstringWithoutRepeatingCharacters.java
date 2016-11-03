@@ -5,7 +5,7 @@ import java.util.Set;
  * Created by lixiaojian on 2016/10/31.
  * @source https://leetcode.com/problems/longest-substring-without-repeating-characters/
  */
-public class LongestSubstringWithoutRepeatingCharacters_3 {
+public class Lee003_LongestSubstringWithoutRepeatingCharacters {
 
 //    Given a string, find the length of the longest substring without repeating characters.
 //
